@@ -4,7 +4,7 @@ Building an AI tool to predict energy consumption of (households/industries/citi
 
 **Data Acquisition**
 
-The dataset acquired from a household in New York City which involves appliances level power consumption and weather data. 
+The dataset acquired from a household in Vancouver which involves appliances level power consumption and weather data. 
 
 **Data Preprocessing**
 
